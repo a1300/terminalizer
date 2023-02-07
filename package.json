@@ -46,7 +46,7 @@
     "chalk": "^2.4.2",
     "death": "^1.1.0",
     "deepmerge": "^2.2.1",
-    "electron": "17",
+    "electron": "^23.0.0",
     "flowa": "^4.0.2",
     "fs-extra": "^5.0.0",
     "gif-encoder": "^0.6.1",
@@ -67,11 +67,11 @@
   "devDependencies": {
     "ajv": "^6.12.0",
     "clean-webpack-plugin": "^4.0.0",
-    "css-loader": "^1.0.0",
+    "css-loader": "^6.7.3",
     "jquery": "^3.4.1",
     "mini-css-extract-plugin": "^2.6.1",
     "terminalizer-player": "^0.4.1",
-    "webpack": "^5.74.0",
+    "webpack": "^5.75.0",
     "webpack-cli": "^4.10.0",
     "xterm": "^3.14.5"
   }
